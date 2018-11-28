@@ -1,0 +1,3 @@
+agreeToLicense=yes
+fileInstallationKey=09806-07443-53955-64350-21751-41XXX
+destinationFolder=/usr/local/R2018b(your version)

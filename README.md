@@ -15,7 +15,7 @@ Execute the installer when you get the zip file and unzip it.
 (To avoid problems, is better install them: apt-get install gcc build-essential openjdk-7-jdk)
 
 Activating
-./activate_matlab.sh -propertiesFile ~/activate.ini 
+./usr/local/MATLAB/R2018b/bin/activate_matlab.sh -propertiesFile ~/activate.ini 
 
 After activating, cd matlabroot\extern\engines\python
 run python setup.py install

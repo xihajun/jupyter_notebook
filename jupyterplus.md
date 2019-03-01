@@ -14,7 +14,8 @@ jt -l
 ```
 # jt -t (the theme you like)
 # For example
-jt -t onedork
+jt -t onedork  -N -T
+# -N -T allows us to show the toolbar after changing the theme
 ```
 ### Change it back
 ```
@@ -44,7 +45,8 @@ import qgrid
 qgrid.show_grid(your_data_name)
 # data type: data.frame
 ```
-
+## Other useful tools
+...continue to update 
 
 [1]: https://zhuanlan.zhihu.com/p/46242116
 [2]: https://www.zhihu.com/question/59392251/answer/560977151

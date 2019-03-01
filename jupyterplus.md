@@ -38,5 +38,13 @@ By conda:
 conda config --add channels conda-forge
 conda install qgrid
 ```
+### Example of using qgrid
+```{python}
+import qgrid
+qgrid.show_grid(your_data_name)
+# data type: data.frame
+```
+
+
 [1]: https://zhuanlan.zhihu.com/p/46242116
 [2]: https://www.zhihu.com/question/59392251/answer/560977151

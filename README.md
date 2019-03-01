@@ -17,6 +17,7 @@ jt -l
 jt -t onedork  -N -T
 # -N -T allows us to show the toolbar after changing the theme
 ```
+![Onedork](./images/onedork.png)
 ### Change it back
 ```
 jt -r
@@ -45,6 +46,8 @@ import qgrid
 qgrid.show_grid(your_data_name)
 # data type: data.frame
 ```
+![Qgrid](./images/qgrid.png)
+
 ## Other useful tools
 ...continue to update 
 

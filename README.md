@@ -1,4 +1,9 @@
 # Improve efficiency
+There are a few things you can change for your jupyter notebook. 
+- Themes
+- nbextension
+  - [Scratchpad](https://blog.csdn.net/yuxiaosmd/article/details/109348329?utm_medium=distribute.pc_blog_right_sidebar.none-task-blog-alirec-6.nonecase&depth_1-utm_source=distribute.pc_blog_right_sidebar.none-task-blog-alirec-6.nonecase) (shortcut: C-b)
+  - 
 ## Themes ([ZHIHU][1])
 To protect your eyes, it's time to change a dark theme. In order to do this, we need
 ### Install
